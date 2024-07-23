@@ -1,7 +1,7 @@
 # Credit_Card_finantial_Dashboard
 Dashboard: Credit Card and Customer Dashboard
 <br/>
-Insights: Credit Card Financial Weekly Insight Report
+Insights: Credit Card Financial Weekly Insights Report
 <br/>
 Credit Card Data CSV files: Credit Card and Customer file
 <br/>
