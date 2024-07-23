@@ -1,4 +1,4 @@
-# Credit_Card_finantial_Dashboard
+# Credit_Card_financial_Dashboard
 Dashboard: Credit Card and Customer Dashboard
 <br/>
 Insights: Credit Card Financial Weekly Insights Report
